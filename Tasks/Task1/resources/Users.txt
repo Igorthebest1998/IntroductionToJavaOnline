@@ -1,0 +1,2 @@
+0;Ihar;ihar;780881118;igor.golod.98@mail.ru;ADMIN
+1;Igor;igor2022;1269087203;ihaigor.golod.98@mail.ru;USER

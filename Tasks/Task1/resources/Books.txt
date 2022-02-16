@@ -1,0 +1,9 @@
+FlowersForAlgernon;DanielKeyes;P_BOOK;1966
+Stoic;TheodoreDreiser;P_BOOK;1947
+1984;GeorgeOrwell;P_BOOK;1949
+BraveNewWorld;AldousHuxley;P_BOOK;1932
+TheGodfather;MarioPuzo;P_BOOK;1969
+Inkheart;CorneliaFunke;E_BOOK;2007
+WhiteFang;JackLondon;E_BOOK;1906
+Titan;TheodoreDreiser;P_BOOK;1932
+Titan;Thedore Dreiser;E_BOOK;1932
